@@ -1,0 +1,26 @@
+# Unreal generated folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Plugin build output
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/.vs/
+
+# Steam Integration Kit is a paid Fab plugin: install it from Fab, don't redistribute it
+Plugins/SteamInte598c9185a4eV6/
+
+# Kept locally, not in the repo
+Tools/
+README.md
